@@ -1,0 +1,20 @@
+{
+    "name": "div-looper/inbox-bundle",
+    "type": "symfony-bundle",
+    "description": "The Internal Messages System for your Symfony2 application.",
+    "keywords": ["symfony2 inbox messages divlooper khal3d aqarmap"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name":"Khaled Attia",
+            "email":"khaled.attia@googlemail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "DivLooper\\Bundle\\InboxBundle\\": ""
+        }
+
+    }
+}
